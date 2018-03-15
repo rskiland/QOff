@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QOff</string>
+    <string name="explanation" />
+    <string name="action_settings" />
+
+    <string-array name="names">
+        <item>Home</item>
+        <item>Rewards</item>
+        <item>Profile</item>
+        <item>Help</item>
+    </string-array>
+
+
+</resources>
